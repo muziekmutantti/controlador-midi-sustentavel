@@ -4,7 +4,7 @@
     Desenvolvedor: Vagné L.
     Email:dev@muziekmutantti.com.br
     GitHub: https://github.com/muziekmutantti
-    GitBook:
+    GitBook: https://github.com/muziekmutantti/controlador-midi-sustentavel
     Data:27.04.26
 */
 
