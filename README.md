@@ -55,6 +55,9 @@ Conexão com software musical
 
 (Esquemas e código detalhado em breve)
 
+Apresentação:
+https://docs.google.com/presentation/d/18q1uGHo6GzXB9Y5X9XEziGxp0Vb4HX9oV8Vz0GD4dPM/edit?usp=sharing
+
 🤝 Contribuição
 Fork
 Branch
