@@ -59,6 +59,8 @@ Apresentação:
 https://docs.google.com/presentation/d/18q1uGHo6GzXB9Y5X9XEziGxp0Vb4HX9oV8Vz0GD4dPM/edit?usp=sharing
 
 🤝 Contribuição
+⭐ Estrela no repositorio 
+👍 Siga me
 Fork
 Branch
 Pull request
