@@ -15,7 +15,8 @@ Dispositivo MIDI acessível, sustentável e replicável, voltado à democratiza�
 ⚙️ Especificações
 4 botões digitais
 2 potenciômetros (B10K)
-1 LED (feedback)
+1 LED
+1 Resistor 220Ω
 Protocolo MIDI padrão
 Arduino (Leonardo recomendado)
 
@@ -52,8 +53,6 @@ LED + resistor 220Ω
 Montagem do circuito
 Upload do código
 Conexão com software musical
-
-(Esquemas e código detalhado em breve)
 
 Apresentação:
 https://docs.google.com/presentation/d/18q1uGHo6GzXB9Y5X9XEziGxp0Vb4HX9oV8Vz0GD4dPM/edit?usp=sharing
